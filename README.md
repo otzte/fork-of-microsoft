@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/clouduserp8d15f5fc/microsoftguide/_apis/build/status/otzte.fork-of-microsoft?branchName=master)](https://dev.azure.com/clouduserp8d15f5fc/microsoftguide/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
